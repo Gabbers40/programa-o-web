@@ -6,7 +6,7 @@ triangulo.php
 		<style>
 		p { font-size: 40px;
 		color:red;}
-		body {background:url(imagem.jpg);
+		body {background:url(https://www.hitpaw.com.br/ai-photo-generator-tips/peter-griffin-ai-feeding-kids.html);
 			  background-repeat: no-repeat;
 			  background-size: 100%;}
 		</style>
